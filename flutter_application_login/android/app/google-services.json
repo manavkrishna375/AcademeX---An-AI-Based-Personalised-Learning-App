@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300967511662",
+    "project_id": "academex-dfa37",
+    "storage_bucket": "academex-dfa37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300967511662:android:09933b70db5b718847087f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgVnL3aNAPvcmqLCSrMFvrKcm9wvHik_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
